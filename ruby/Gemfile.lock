@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    excon (0.62.0)
+    excon (0.71.0)
 
 PLATFORMS
   ruby
